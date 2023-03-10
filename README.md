@@ -20,4 +20,4 @@ python을 이용해 ARM 명령어를 기계어로 변환하는 코드 작성
 
 # 실행방법
 test.s 파일에는 ARM 명령어를 입력하고<br>
-$ python two_pass_assembly.py < test.s
+    $ python two_pass_assembly.py < test.s
