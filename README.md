@@ -1,7 +1,7 @@
 # two-pass-assembly
 python을 이용해 ARM 명령어를 기계어로 변환하는 코드 작성
 
-#구현 내용
+# 구현 내용
 -Basic Level
 1. immediate value 구현
 2. shift immediate value 구현
@@ -18,4 +18,4 @@ python을 이용해 ARM 명령어를 기계어로 변환하는 코드 작성
 - Challenging Level
 1. pseudo instruction 구현
 
-#실행방법
+# 실행방법
