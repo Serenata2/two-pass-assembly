@@ -3,7 +3,7 @@ python을 이용해 ARM 명령어를 기계어로 변환하는 코드 작성
 
 #구현 내용
 -Basic Level
-1. 1. immediate value 구현
+1. immediate value 구현
 2. shift immediate value 구현
 3. shift Register 구현
 4. OPCODE 6개 이상 + COND 7개 이상 구현
